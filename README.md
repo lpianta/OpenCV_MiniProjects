@@ -78,3 +78,11 @@ Repository url: [Simple Meme](https://github.com/lpianta/OpenCV_MiniProjects/tre
 Draw a sketch from an image or transform a live capture video in sketch<br>
 Computer vision skills applied: blurring filter, edge detection, bitwise operation. <br>
 Repository url: [Clear noise from image](https://github.com/lpianta/OpenCV_MiniProjects/tree/main/Clear%20noise%20from%20image)
+
+---
+
+### Mnist with my own handwriting
+
+Preprocess my own handwritten digits to pass them to the MNIST Classifier in Keras. <br>
+Computer vision skills applied: resize, adding border, dilate, threshold
+Repository url: [MNIST With my own digits](https://github.com/lpianta/OpenCV_MiniProjects/tree/main/Mnist%20with%20my%20own%20handwriting)
