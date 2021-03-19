@@ -86,3 +86,10 @@ Repository url: [Clear noise from image](https://github.com/lpianta/OpenCV_MiniP
 Preprocess my own handwritten digits to pass them to the MNIST Classifier in Keras. <br>
 Computer vision skills applied: resize, adding border, dilate, threshold
 Repository url: [MNIST With my own digits](https://github.com/lpianta/OpenCV_MiniProjects/tree/main/Mnist%20with%20my%20own%20handwriting)
+
+---
+
+### Detecting road lanes
+
+Try and detect road lanes surrounding a car both in images and in video. Video still need some work :) <br>
+Computer vision skills applied: color converting, blurring, edge detection, hugh spaces, masking, bitwise operator, drawing on images. <br>
